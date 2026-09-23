@@ -1,5 +1,5 @@
 #admob
-google.com, pub-7107288240741053, DIRECT, f08c47fec0942fa0
+google.com, pub-2556875373230252, DIRECT, f08c47fec0942fa0
 
 #liftoff
 vungle.com,6a71da4d95fbe99e122bf340,DIRECT,c107d686becd2d77
