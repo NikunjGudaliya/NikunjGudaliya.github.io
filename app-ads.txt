@@ -1,6 +1,10 @@
 #admob
 google.com, pub-2556875373230252, DIRECT, f08c47fec0942fa0
 
+#meta (facebook)
+facebook.com, 1127097143415463, DIRECT, c3e20eee3f780d68
+facebook.com, 1784712602755917, DIRECT, c3e20eee3f780d68
+
 #liftoff
 vungle.com,6a71da4d95fbe99e122bf340,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
